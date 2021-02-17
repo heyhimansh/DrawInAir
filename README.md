@@ -12,7 +12,8 @@
     <img align="left" alt="Himanshu's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
 
-  ![](https://visitor-badge.glitch.me/badge?page_id=heyhimansh.page.id)
+  ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=heyhimansh&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+
 
 THIS REPO IS JUST SIMPLE BUT REALLY USEFUL.THIS HELPS YOU TO DRAW IN AIR AND DIRECTLY GIVE INPUT TO COMPUTER.
 
