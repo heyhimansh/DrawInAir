@@ -12,13 +12,17 @@
     <img align="left" alt="Himanshu's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
 
-  ![](https://visitor-badge.glitch.me/badge?page_id=heyhimansh.heyhimansh)
+  ![](https://visitor-badge.glitch.me/badge?page_id=heyhimansh.page.id)
 
 THIS REPO IS JUST SIMPLE BUT REALLY USEFUL.THIS HELPS YOU TO DRAW IN AIR AND DIRECTLY GIVE INPUT TO COMPUTER.
 
 TO USE THIS OPEN PyCode.py FILE PRESS CTRL+A THEN CTRL+C AND PASTE THIS CODE IN PYTHON IDLE THAN PREE F5 TO RUN THE CODE
 
-⚡⚡⚡⚡⚡     If you like what I do, so follow me on instagram     ⚡⚡⚡⚡⚡
+⚡⚡⚡⚡⚡     If you like what I do, so follow me on instagram ⭐     ⚡⚡⚡⚡⚡
+
+⭐⭐ PLEASE , STAR ⭐⭐ MY REPOSITORY ⭐⭐
+
                       
                        
-                                                🥺👉👈
+                                                                           🥺👉👈
+                                                
