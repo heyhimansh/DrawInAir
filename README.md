@@ -12,16 +12,13 @@
     <img align="left" alt="Himanshu's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
 
-<!DOCTYPE html>
-<html>
+  ![](https://visitor-badge.glitch.me/badge?page_id=heyhimansh.heyhimansh)
 
-   <head>
-      <title>Font Face</title>
-   </head>
+THIS REPO IS JUST SIMPLE BUT REALLY USEFUL.THIS HELPS YOU TO DRAW IN AIR AND DIRECTLY GIVE INPUT TO COMPUTER.
 
-   <body>
-      <font face = "Comic sans MS" size =" 5">This repo is just simple but really useful. This helps you to draw in air and directly give input to computer.</font><br />
-      <font color = "red">TO USE THIS OPEN PyCode.py FILE PRESS CTRL+A THEN CTRL+C AND PASTE THIS CODE IN PYTHON IDLE THAN PREE F5 TO RUN THE CODE </font>
-   </body>
+TO USE THIS OPEN PyCode.py FILE PRESS CTRL+A THEN CTRL+C AND PASTE THIS CODE IN PYTHON IDLE THAN PREE F5 TO RUN THE CODE
 
-</html>
+⚡⚡⚡⚡⚡     If you like what I do, so follow me on instagram     ⚡⚡⚡⚡⚡
+                      
+                       
+                                                🥺👉👈
