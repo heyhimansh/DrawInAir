@@ -86,5 +86,4 @@ while True:
 #### thank you for this vi
 
 cv2.destroyAllWindows()
-cap.release()
-hey
+cap.release() 
