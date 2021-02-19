@@ -19,11 +19,12 @@ THIS REPO IS JUST SIMPLE BUT REALLY USEFUL.THIS HELPS YOU TO DRAW IN AIR AND DIR
 
 TO USE THIS OPEN PyCode.py FILE PRESS CTRL+A THEN CTRL+C AND PASTE THIS CODE IN PYTHON IDLE THAN PREE F5 TO RUN THE CODE
 
-⚡⚡⚡⚡⚡     If you like what I do, so follow me on instagram ⭐     ⚡⚡⚡⚡⚡
+# If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
+⚡⚡⚡⚡⚡        If you like what I do, show your love :heart: by putting a :star: on this project :v: ⭐     ⚡⚡⚡⚡⚡
 
 ⭐⭐ PLEASE , STAR ⭐⭐ MY REPOSITORY ⭐⭐
 
                       
                        
-                                                                                                                                                           🥺👉👈
+                                                                                                                                   🥺👉👈
                                                 
