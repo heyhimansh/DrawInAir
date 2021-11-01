@@ -22,7 +22,7 @@ TO USE THIS OPEN PyCode.py FILE PRESS CTRL+A THEN CTRL+C AND PASTE THIS CODE IN 
 # If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 ⚡⚡⚡⚡⚡        If you like what I do, show your love :heart: by putting a :star: on this project :v: ⭐     ⚡⚡⚡⚡⚡
 
-⭐⭐ PLEASE , STAR ⭐⭐ MY REPOSITORY ⭐⭐
+⭐⭐  ⭐⭐  ⭐⭐
 
                       
                        
