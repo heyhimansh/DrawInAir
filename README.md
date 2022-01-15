@@ -18,12 +18,6 @@
 THIS REPO IS JUST SIMPLE BUT REALLY USEFUL.THIS HELPS YOU TO DRAW IN AIR AND DIRECTLY GIVE INPUT TO COMPUTER.
 
 TO USE THIS OPEN PyCode.py
-<br/>
-<br/>
-FILE PRESS CTRL+A 
-<br/>
-<br/>
-THEN CTRL+C AND PASTE THIS CODE IN PYTHON IDLE THAN PREE F5 TO RUN THE CODE
 
 # If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
  <br/>
