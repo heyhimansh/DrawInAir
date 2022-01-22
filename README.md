@@ -27,7 +27,7 @@ It does not change with time. The object that will be used for writing/painting 
  <br/>
  If you like what I do, show your love :heart: by putting a :star: on this project :v: ⭐    
 
-                                        ⭐⭐  ⭐⭐  ⭐⭐
+                               
 
                       
                        
